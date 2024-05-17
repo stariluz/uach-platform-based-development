@@ -10,3 +10,6 @@
 [submodule "js-works/UACH-pbd-js-proyect-1"]
 	path = js-works/UACH-pbd-js-proyect-1
 	url = https://github.com/Adrigondo/UACH-pbd-js-proyect-1
+[submodule "js-works/UACH-pbd-js-chat"]
+	path = js-works/UACH-pbd-js-chat
+	url = https://github.com/Adrigondo/UACH-pbd-js-chat
