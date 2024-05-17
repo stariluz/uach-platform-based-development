@@ -1,0 +1,12 @@
+[submodule "js-works/UACH-pbd-js-blockchain"]
+	path = js-works/UACH-pbd-js-blockchain
+	url = https://github.com/Adrigondo/UACH-pbd-js-blockchain
+[submodule "js-works/UACH-pbd-js-1"]
+	path = js-works/UACH-pbd-js-1
+	url = https://github.com/Adrigondo/UACH-pbd-js-1
+[submodule "js-works/UACH-pbd-js-2"]
+	path = js-works/UACH-pbd-js-2
+	url = https://github.com/Adrigondo/UACH-pbd-js-2
+[submodule "js-works/UACH-pbd-js-proyect-1"]
+	path = js-works/UACH-pbd-js-proyect-1
+	url = https://github.com/Adrigondo/UACH-pbd-js-proyect-1
