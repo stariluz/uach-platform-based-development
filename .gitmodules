@@ -13,3 +13,6 @@
 [submodule "js-works/UACH-pbd-js-chat"]
 	path = js-works/UACH-pbd-js-chat
 	url = https://github.com/Adrigondo/UACH-pbd-js-chat
+[submodule "js-works/UACH-pbd-js-server"]
+	path = js-works/UACH-pbd-js-server
+	url = https://github.com/Adrigondo/UACH-pbd-js-server
