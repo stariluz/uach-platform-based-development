@@ -1,18 +1,21 @@
-[submodule "js-works/UACH-pbd-js-blockchain"]
-	path = js-works/UACH-pbd-js-blockchain
-	url = https://github.com/Adrigondo/UACH-pbd-js-blockchain
-[submodule "js-works/UACH-pbd-js-1"]
-	path = js-works/UACH-pbd-js-1
-	url = https://github.com/Adrigondo/UACH-pbd-js-1
-[submodule "js-works/UACH-pbd-js-2"]
-	path = js-works/UACH-pbd-js-2
-	url = https://github.com/Adrigondo/UACH-pbd-js-2
-[submodule "js-works/UACH-pbd-js-proyect-1"]
-	path = js-works/UACH-pbd-js-proyect-1
-	url = https://github.com/Adrigondo/UACH-pbd-js-proyect-1
-[submodule "js-works/UACH-pbd-js-chat"]
-	path = js-works/UACH-pbd-js-chat
-	url = https://github.com/Adrigondo/UACH-pbd-js-chat
-[submodule "js-works/UACH-pbd-js-server"]
-	path = js-works/UACH-pbd-js-server
-	url = https://github.com/Adrigondo/UACH-pbd-js-server
+[submodule "./js-works/UACH-pbd-js-blockchain"]
+	path = ./js-works/UACH-pbd-js-blockchain
+	url = https://github.com/stariluz/uach-pbd-js-blockchain
+[submodule "./js-works/UACH-pbd-js-1"]
+	path = ./js-works/UACH-pbd-js-1
+	url = https://github.com/stariluz/uach-pbd-js-exercise-1
+[submodule "./js-works/UACH-pbd-js-2"]
+	path = ./js-works/UACH-pbd-js-2
+	url = https://github.com/stariluz/uach-pbd-js-exercise-2
+[submodule "./UACH-pbd-project-1"]
+	path = ./UACH-pbd-project-1
+	url = https://github.com/stariluz/uach-pbd-project-1
+[submodule "./js-works/UACH-pbd-js-chat"]
+	path = ./js-works/UACH-pbd-js-chat
+	url = https://github.com/stariluz/uach-pbd-js-chat
+[submodule "./js-works/UACH-pbd-js-server"]
+	path = ./js-works/UACH-pbd-js-server
+	url = https://github.com/stariluz/uach-pbd-server-js
+[submodule "./js-works/UACH-pbd-project-2"]
+	path = ./js-works/UACH-pbd-project-2
+	url = https://github.com/stariluz/uach-pbd-project-2
