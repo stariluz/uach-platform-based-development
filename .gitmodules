@@ -1,5 +1,5 @@
-[submodule "js-works/UACH-pbd-blockchain"]
-	path = js-works/UACH-pbd-blockchain
+[submodule "js-works/UACH-pbd-blockchain-js"]
+	path = js-works/UACH-pbd-blockchain-js
 	url = https://github.com/stariluz/uach-pbd-blockchain-js
 [submodule "js-works/UACH-pbd-js-1"]
 	path = js-works/UACH-pbd-js-1
@@ -7,6 +7,15 @@
 [submodule "js-works/UACH-pbd-js-2"]
 	path = js-works/UACH-pbd-js-2
 	url = https://github.com/stariluz/uach-pbd-js-exercise-2
-[submodule "js-works/UACH-pbd-js-server"]
-	path = js-works/UACH-pbd-js-server
+[submodule "js-works/UACH-pbd-server-js"]
+	path = js-works/UACH-pbd-server-js
 	url = https://github.com/stariluz/uach-pbd-server-js
+[submodule "js-works/UACH-pbd-project-1"]
+	path = js-works/UACH-pbd-project-1
+	url = https://github.com/stariluz/uach-pbd-project-1
+[submodule "js-works/UACH-pbd-project-2"]
+	path = js-works/UACH-pbd-project-2
+	url = https://github.com/stariluz/uach-pbd-project-2
+[submodule "js-works/UACH-pbd-chatroom-js"]
+	path = js-works/UACH-pbd-chatroom-js
+	url = https://github.com/stariluz/uach-pbd-chatroom-js
