@@ -1,0 +1,12 @@
+[submodule "js-works/UACH-pbd-blockchain"]
+	path = js-works/UACH-pbd-blockchain
+	url = https://github.com/stariluz/uach-pbd-blockchain-js
+[submodule "js-works/UACH-pbd-js-1"]
+	path = js-works/UACH-pbd-js-1
+	url = https://github.com/stariluz/uach-pbd-js-exercise-1
+[submodule "js-works/UACH-pbd-js-2"]
+	path = js-works/UACH-pbd-js-2
+	url = https://github.com/stariluz/uach-pbd-js-exercise-2
+[submodule "js-works/UACH-pbd-js-server"]
+	path = js-works/UACH-pbd-js-server
+	url = https://github.com/stariluz/uach-pbd-server-js
